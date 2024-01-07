@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #F6DDCC;
   background-color: white;
 }
 /* main body */
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #F6DDCC !important;
 }
 
 #skills .card.large {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #F6DDCC !important;
 }
 
 /* .teal {
