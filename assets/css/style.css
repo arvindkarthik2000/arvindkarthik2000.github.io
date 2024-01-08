@@ -84,7 +84,7 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
+  background: #f6f47d;
   color: #EAEDED;
   border: 2px solid #fff;
   font-weight: 600;
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #76b9ed !important;
 }
 
 /* .teal-text {
